@@ -1,2 +1,2 @@
-# Tuna-Spelling-fix
-Spelling fix in tuna-cmd.py (Line 573)
+# Tuna: Spelling fix in tuna-cmd
+Spelling fix in tuna-cmd 
