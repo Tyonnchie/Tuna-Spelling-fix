@@ -722,7 +722,7 @@ def main():
             op_list = list(set(op_list))
             thread_list = do_list_op(op, thread_list, op_list)
 
-            # Check if a process name was especified and no
+            # Check if a process name was specified and no
             # threads was found, which would result in an empty
             # thread list, i.e. we would print all the threads
             # in the system when we should print nothing.
